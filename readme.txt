@@ -1,4 +1,4 @@
-# InsideBarColored 
+# InsideBarColored #
 
 ## Regra de Coloração para ProfitChart (Nelogica)
 
