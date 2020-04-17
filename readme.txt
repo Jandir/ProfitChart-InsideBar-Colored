@@ -1,5 +1,6 @@
-InsideBarColored 
-Regra de Coloração para ProfitChart (Nelogica)
+# InsideBarColored 
+
+## Regra de Coloração para ProfitChart (Nelogica)
 
 Baseado no principio de barras engolfadas ou "Inside Bars" de analise gráfica.
 
